@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/conflate/static/css/main.f3542f62.css",
+    "main.js": "/conflate/static/js/main.2ec9b08e.js",
+    "static/media/homepageVideo.mp4": "/conflate/static/media/homepageVideo.3305773535bbe035dc9a.mp4",
+    "static/media/mobileservice.png": "/conflate/static/media/mobileservice.3e05c419cad77a77f6ef.png",
+    "static/media/conflate_logo2.png": "/conflate/static/media/conflate_logo2.2a0f4024db9e146bde7a.png",
+    "static/media/navbar_logo.png": "/conflate/static/media/navbar_logo.3aa6ea41fc9697b34f3b.png",
+    "static/media/softwareservice.png": "/conflate/static/media/softwareservice.3f49161631dd8be205a7.png",
+    "static/media/AboutImg.avif": "/conflate/static/media/AboutImg.91c6981c509012295f29.avif",
+    "static/media/services1.svg": "/conflate/static/media/services1.c5455669244f37f94a60aadcfebaf566.svg",
+    "index.html": "/conflate/index.html",
+    "main.f3542f62.css.map": "/conflate/static/css/main.f3542f62.css.map",
+    "main.2ec9b08e.js.map": "/conflate/static/js/main.2ec9b08e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3542f62.css",
+    "static/js/main.2ec9b08e.js"
+  ]
+}
